@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/enhanced-chatgpt/static/css/main.850b44ab.css",
+    "main.js": "/enhanced-chatgpt/static/js/main.1c951193.js",
+    "static/js/787.e0c1b207.chunk.js": "/enhanced-chatgpt/static/js/787.e0c1b207.chunk.js",
+    "static/media/logo.svg": "/enhanced-chatgpt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/enhanced-chatgpt/index.html",
+    "main.850b44ab.css.map": "/enhanced-chatgpt/static/css/main.850b44ab.css.map",
+    "main.1c951193.js.map": "/enhanced-chatgpt/static/js/main.1c951193.js.map",
+    "787.e0c1b207.chunk.js.map": "/enhanced-chatgpt/static/js/787.e0c1b207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850b44ab.css",
+    "static/js/main.1c951193.js"
+  ]
+}
